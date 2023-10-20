@@ -1,0 +1,95 @@
+{
+    "sanpham": [
+      {
+        "ten_san_pham": "BALO LOUIS VUITTON DISCOVERY PM MONOGRAM",
+        "hinh_anh": "//bizweb.dktcdn.net/thumb/grande/100/386/444/products/balo-louis-vuitton-discovery-pm-monogram-chuan-authentic-1-ac4cdc93-d5b0-42a2-aa1e-53905bd115bf.jpg?v=1693909385647s",
+        "id_chuyen_muc": 3,
+        "id_thuong_hieu": 1,
+        "gia_goc": 6000000,
+        "gia_ban": 6800000,
+        "mo_ta": "BALO LOUIS VUITTON DISCOVERY PM MONOGRAM CHUẨN 1:1 AUTHENTIC",
+        "so_luong": 0,
+        "noi_dung": "BALO LOUIS VUITTON DISCOVERY PM MONOGRAM CHUẨN 1:1 AUTHENTIC",
+        "thong_tin_them": "BALO LOUIS VUITTON DISCOVERY PM MONOGRAM CHUẨN 1:1 AUTHENTIC",
+        "tinh_trang": 1
+      },
+      {
+        "ten_san_pham": "ÁO SƠ MI THOM BROWNE RWB STRIPE WHITE",
+        "hinh_anh": "https://bizweb.dktcdn.net/thumb/grande/100/386/444/products/ao-so-mi-thom-browne-rwb-stripe-chuan-authentic-1-04c141b7-ef78-4b66-ae24-33468153d16c.jpg?v=1696415500877",
+        "id_chuyen_muc": 1,
+        "id_thuong_hieu": 3,
+        "gia_goc": 2000000,
+        "gia_ban": 2800000,
+        "mo_ta": "ÁO SƠ MI THOM BROWNE RWB STRIPE CHUẨN 1:1 AUTHENTIC",
+        "so_luong": 0,
+        "noi_dung": "ÁO SƠ MI THOM BROWNE RWB STRIPE CHUẨN 1:1 AUTHENTIC",
+        "thong_tin_them": "ÁO SƠ MI THOM BROWNE RWB STRIPE CHUẨN 1:1 AUTHENTIC",
+        "tinh_trang": 1
+      },
+      {
+        "ten_san_pham": "ÁO POLO BURBERRY CHECK-COLLAR BLACK",
+        "hinh_anh": "https://bizweb.dktcdn.net/thumb/grande/100/386/444/products/ao-polo-burberry-check-collar-black-chuan-chinh-hang-1.jpg?v=1696415218270",
+        "id_chuyen_muc": 1,
+        "id_thuong_hieu": 3,
+        "gia_goc": 2000000,
+        "gia_ban": 2600000,
+        "mo_ta": "ÁO POLO BURBERRY CHECK-COLLAR BLACK CHUẨN 1:1 GIỐNG CHÍNH HÃNG.",
+        "so_luong": 0,
+        "noi_dung": "ÁO POLO BURBERRY CHECK-COLLAR BLACK CHUẨN 1:1 GIỐNG CHÍNH HÃNG.",
+        "thong_tin_them": "ÁO POLO BURBERRY CHECK-COLLAR BLACK CHUẨN 1:1 GIỐNG CHÍNH HÃNG.",
+        "tinh_trang": 1
+      },
+      {
+        "ten_san_pham": "Điện thoại iPhone 14 Pro 256GB",
+        "hinh_anh": "https://img.tgdd.vn/imgt/f_webp,fit_outside,quality_100/https://cdn.tgdd.vn/Products/Images/42/289691/iphone-14-pro-vang-thumb-600x600.jpg",
+        "id_chuyen_muc": 4,
+        "id_thuong_hieu": 4,
+        "gia_goc": 25000000,
+        "gia_ban": 27290000,
+        "mo_ta": "Apple trong sự kiện ngày 8/9 đã giới thiệu đến người dùng mẫu iPhone 14 Pro 256GB mang những cải tiến về mặt thiết kế cũng như cấu hình phần cứng",
+        "so_luong": 0,
+        "noi_dung": "Hiệu năng đột phá Bộ vi xử lý A16 Bionic được sản xuất trên tiến trình hiện đại cho hiệu năng mạnh mẽ có thể xử lý mọi tác vụ từ nhẹ đến nặng, cân game dễ dàng trong khi vẫn tối ưu và tiết kiệm được điện năng. ",
+        "thong_tin_them": "Với những cải tiến về mặt thiết kế cũng như hiệu năng mạnh mẽ, camera được nâng cấp nên iPhone 14 Pro 256GB có thể đáp ứng mọi nhu cầu của người dùng, trong mọi tác vụ từ nhẹ nhất đến nặng nhất.",
+        "tinh_trang": 1
+      },
+      {
+        "ten_san_pham": "Điện thoại iPhone 12 128GB",
+        "hinh_anh": "https://product.hstatic.net/1000351433/product/1_396b586075c74721ab77181c5e103091_master.jpg",
+        "id_chuyen_muc": 4,
+        "id_thuong_hieu": 4,
+        "gia_goc": 12000000,
+        "gia_ban": 14490000,
+        "mo_ta": "Apple đã trình diện đến người dùng mẫu điện thoại iPhone 12 128GB với sự tuyên bố về một kỷ nguyên mới của iPhone 5G, nâng cấp về màn hình và hiệu năng hứa hẹn đây sẽ là smartphone cao cấp đáng để mọi người đầu tư sở hữu.",
+        "so_luong": 0,
+        "noi_dung": "Hiệu năng đột phá Bộ vi xử lý A16 Bionic được sản xuất trên tiến trình hiện đại cho hiệu năng mạnh mẽ có thể xử lý mọi tác vụ từ nhẹ đến nặng, cân game dễ dàng trong khi vẫn tối ưu và tiết kiệm được điện năng.",
+        "thong_tin_them": "Với những cải tiến về mặt thiết kế cũng như hiệu năng mạnh mẽ, camera được nâng cấp nên iPhone 14 Pro 256GB có thể đáp ứng mọi nhu cầu của người dùng, trong mọi tác vụ từ nhẹ nhất đến nặng nhất.",
+        "tinh_trang": 1
+      },
+      {
+        "ten_san_pham": "Điện thoại iPhone 15 Pro Max 256GB",
+        "hinh_anh": "https://product.hstatic.net/1000351433/product/5660_80a0d63db09c46df8a48bb7c8fcb2db5_master.jpg",
+        "id_chuyen_muc": 4,
+        "id_thuong_hieu": 4,
+        "gia_goc": 25000000,
+        "gia_ban": 34990000,
+        "mo_ta": "Apple đã trình diện đến người dùng mẫu điện thoại iPhone 15 Pro Max 256GB với sự tuyên bố về một kỷ nguyên mới của iPhone 5G, nâng cấp về màn hình và hiệu năng hứa hẹn đây sẽ là smartphone cao cấp đáng để mọi người đầu tư sở hữu.",
+        "so_luong": 0,
+        "noi_dung": "Hiệu năng đột phá Bộ vi xử lý A16 Bionic được sản xuất trên tiến trình hiện đại cho hiệu năng mạnh mẽ có thể xử lý mọi tác vụ từ nhẹ đến nặng, cân game dễ dàng trong khi vẫn tối ưu và tiết kiệm được điện năng.",
+        "thong_tin_them": "Với những cải tiến về mặt thiết kế cũng như hiệu năng mạnh mẽ, camera được nâng cấp nên iPhone 14 Pro 256GB có thể đáp ứng mọi nhu cầu của người dùng, trong mọi tác vụ từ nhẹ nhất đến nặng nhất.",
+        "tinh_trang": 1
+      },
+      {
+        "ten_san_pham": "Áo Thun Nam MTF020-2",
+        "hinh_anh": "https://bizweb.dktcdn.net/thumb/1024x1024/100/355/846/products/h9c4d4c9ca0254d7a80b2b59f0d456bedv-1-59175f02-f139-49ef-b645-f409501122df.webp?v=1676538233727",
+        "id_chuyen_muc": 5,
+        "id_thuong_hieu": 1,
+        "gia_goc": 380000,
+        "gia_ban": 199000,
+        "mo_ta": "Chất vải mềm mịn, Co giãn nhẹ, thấm hút tốt",
+        "so_luong": 0,
+        "noi_dung": "Chất vải mềm mịn, Co giãn nhẹ, thấm hút tốt",
+        "thong_tin_them": "Chất vải mềm mịn, Co giãn nhẹ, thấm hút tốt",
+        "tinh_trang": 1
+      }
+      ]
+    }
